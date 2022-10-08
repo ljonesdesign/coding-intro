@@ -4,11 +4,39 @@
 Our first steps with coding were issuing simple commands in our terminal when we logged into the OPAL server, like ```ls```, ```cd```,```mkdir```,```rm```.
 
 ## Client Side Scripting
-Client side scripting means that code is run on the client`s computer. JavaScript is a client scripting language that runs in a browser (which uses the computer memory and processor). All you have to do to begin coding in JavaScrip is to put  valid javascipt between open and closing scripts tags:
+Client side scripting means that code is run on the client`s computer. JavaScript is a client scripting language that runs in a browser (which uses the computer memory and processor). All you have to do to begin coding in JavaScript is to put  valid javascipt between open and closing scripts tags:
+
+## Create a minimum HTML document:
 
 ```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document Write Demo - JS</title>
+</head>
+<body>
+
+</body>
+</html>
+
+
+```
+
+### Set up Script element in the body section
+
+```
+<body>
+  <script>
+
+  </script>
+</body>
+```
+### Add a document.write method 
+
 <script>
-
-
-
+ document.write("Hello World!")
 </script>
+
+Now that you have done a document write Method, vi
