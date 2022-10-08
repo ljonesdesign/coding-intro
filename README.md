@@ -28,7 +28,7 @@ Use your editor to create this for you, or you can copy and paste this code:
 All you have to do to begin coding in JavaScript is to put valid javascipt between open and closing scripts tags:
 
 ```
-  <body>
+  <body> <!-- Don't copy this again. -->
 ```     
 ```
      <script>
@@ -36,7 +36,7 @@ All you have to do to begin coding in JavaScript is to put valid javascipt betwe
      </script>
 ```
 ```
-   </body>
+   </body>  <!-- Don't copy this again. -->
 ```
 ### Add a document.write method 
 *Using document.write method is not recommended for coding, but is is a quick way to show how the it is similar to other programs that use print(Python), or echo(PHP):
