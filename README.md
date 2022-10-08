@@ -6,7 +6,7 @@ Our first steps with coding were issuing simple commands in our terminal when we
 ## Client Side Scripting
 Client side scripting means that code is run on the client`s computer. JavaScript is a client scripting language that runs in a browser (which uses the computer memory and processor). All you have to do to begin coding in JavaScript is to put  valid javascipt between open and closing scripts tags:
 
-## Create a minimum HTML document:
+# Create a minimum HTML document:
 
 ```
 <!DOCTYPE html>
@@ -16,24 +16,23 @@ Client side scripting means that code is run on the client`s computer. JavaScrip
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document Write Demo - JS</title>
 </head>
-<body>
+    <body>
 
-</body>
+    </body>
 </html>
-
-
 ```
 
 ### Set up Script element in the body section
 
 ```
-<body>
-  <script>
+   <body>
+     <script>
 
-  </script>
-</body>
+     </script>
+   </body>
 ```
 ### Add a document.write method 
+*Using document.write method is not recommended for coding, but is is a quick way to show how the it is similar to other programs that use print(Python), or echo(PHP):
 
 <script>
  document.write("Hello World!")
