@@ -28,10 +28,14 @@ Use your editor to create this for you, or you can copy and paste this code:
 All you have to do to begin coding in JavaScript is to put valid javascipt between open and closing scripts tags:
 
 ```
-   <body>
+  <body>
+```     
+```
      <script>
 
      </script>
+```
+```
    </body>
 ```
 ### Add a document.write method 
