@@ -6,7 +6,7 @@ Our first steps with coding were issuing simple commands in our terminal when we
 ## Client Side Scripting Demo
 Client side scripting means that code is run on the client`s computer. JavaScript is a client scripting language that runs in a browser (which uses the client's computer memory and processor). 
 
-## Create a minimum HTML document:
+### Create a minimum HTML document:
 Use your editor to create this for you, or you can copy and paste this code:
 
 ```
