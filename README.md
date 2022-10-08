@@ -41,20 +41,20 @@ All you have to do to begin coding in JavaScript is to put valid javascipt betwe
 ### Add a document.write method 
 *Using document.write method is not recommended for actual coding, but for beginners, it is a quick way to show how javascript is similar to other programs that use print(Python), or echo (PHP):*
 
-JavaScript (will run in a browser if user has not disabled JavaScript
+**JavaScript** (*will run in a browser if user has not disabled JavaScript*)
 ```
    <script>
       document.write("Hello World!")
    </script>   
 ```
 
-PHP (will only run in a server environment where PHP module is enabled)
+**PHP** (*will only run in a server environment where PHP module is enabled*)
 ```
     <?php 
        echo 'Hello World'; 
     ?>
 ```
-Python (does not run in a browser)
+**Python** (*does not run in a browser*)
 ```
 Python 3.10.6
 Type "help", "copyright", "credits" or "license" for more information.
