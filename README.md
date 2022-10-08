@@ -39,10 +39,10 @@ All you have to do to begin coding in JavaScript is to put valid javascipt betwe
    </body>  <!-- Don't copy this again. -->
 ```
 ### Add a document.write method 
-*Using document.write method is not recommended for actual coding, but for beginners, it is a quick way to show how javascript is similar to other programs that use print(Python), or echo(PHP):*
-
-<script>
- document.write("Hello World!")
-</script>
-
-Now that you have done a document.write Method, lets move on to a better workflow.
+*Using document.write method is not recommended for actual coding, but for beginners, it is a quick way to show how javascript is similar to other programs that use print(Python), or echo (PHP):*
+```
+   <script>
+      document.write("Hello World!")
+   </script>
+```
+Save your file and preview it in a browser and you will see that Hello World is now showing in the browser. Now that you have done a document.write Method, lets move on to a better [Hello World Workflow at Mozilla developer network](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics#a_hello_world!_example)
