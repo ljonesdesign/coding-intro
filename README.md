@@ -62,4 +62,21 @@ Type "help", "copyright", "credits" or "license" for more information.
 Hello World!
 >>> 
 ```
+### Final Code should look like this:
+
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document Write Demo - JS</title>
+</head>
+    <body>
+     <script>
+      document.write("Hello World!")
+     </script>   
+    </body>
+</html>
+```
 Save your file and preview it in a browser and you will see that Hello World is now showing in the browser. Now that you have done a document.write Method, lets move on to a better [Hello World Workflow at Mozilla developer network](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics#a_hello_world!_example)
